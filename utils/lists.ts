@@ -532,4 +532,9 @@ export const derivativesList: Record<string, string>[] = [
     description: "The first anti-metaverse built on Ethereum",
     url: "https://upsidedownloot.com/",
   },
+  {
+    name: "Bandit Loot",
+    description: "A fully on-contract game to fight Bandits using Loot Characters",
+    url: "https://github.com/madhavanmalolan/banditloot"
+  },
 ];
